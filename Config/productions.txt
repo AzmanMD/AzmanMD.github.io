@@ -2,26 +2,15 @@
 # When you add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+Senior 3D Artist
+Vinacts Co LTD
+Date ( 2024-present )
+https://www.vinacts.com/img/logo_white.199b1703.svg
+Developed 3D models, textures, materials & lighting for VR projects. I Got the opportunity to work with Samsung, Hyundai, Coca-Cola etc while working with Vinacts.
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+Lead 3D Artist
+MiniGameLab
+Date (i.e 2021-2023)
+https://minigamelab.com/public/assets/img/Compound%20Path.png 
+Developed characters, Stylized & Realistic props for their games. Worked closely with Voodoo instructors and Lead a team of artists to ensure quality and optimizations for the game on mobile devices. Guided the team to align with the art style. Utilized Unity for material creation and level structuring. Collaborated on the development of all published mobile 3D games. 
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
----
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.

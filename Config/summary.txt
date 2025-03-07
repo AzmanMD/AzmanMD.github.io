@@ -1,3 +1,8 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
-
-Pellentesque blandit leo nec tincidunt consectetur. Suspendisse auctor eu justo a vestibulum. Suspendisse bibendum, lacus id mattis finibus, turpis neque tempus arcu, at consectetur diam tellus in odio. Cras eu dolor laoreet ante dignissim sagittis malesuada vitae diam. Duis facilisis auctor quam eu porttitor. Pellentesque dictum dapibus nisi mollis hendrerit. Suspendisse at ante accumsan, venenatis diam eu, consectetur massa. Etiam non nisl in massa suscipit dignissim quis vitae mauris.
+ Hi, I'm Azman, a 3D artist with 6+ years in the gaming industry. I've 
+collaborated with various studios, specializing in asset creation and rendering 
+using Substance Painter, ZBrush, Blender, Unity, Unreal engine and Photoshop. 
+My expertise includes crafting characters and props for games and animations, 
+excelling in high-quality maps and efficient UV mapping. I bring a keen artistic 
+eye to projects, focusing on composition, realism, texture, color, and lighting. 
+Alongside my creativity, I offer strong communication, teamwork, and time 
+management skills. Excited to contribute my experience to new projects!
