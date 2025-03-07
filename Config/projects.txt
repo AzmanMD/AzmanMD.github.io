@@ -2,3 +2,10 @@ Magnum
 Crates
 Zombies
 Ostrich
+WaterBarrel
+Storage
+Fridge
+Fridge2
+Bots
+Arebian
+Chinese
