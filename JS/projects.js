@@ -136,6 +136,8 @@ document.addEventListener('DOMContentLoaded', () => {
             mediaElement = createSketchfabElement(urls[0]);
         } else if (urls[0].match(/\.mview$/) != null) {
             mediaElement = createMarmosetViewerElement(urls[0]);
+        } else {
+            mediaElement = createImageElement(urls);
         }
 
         if (mediaElement && description) {

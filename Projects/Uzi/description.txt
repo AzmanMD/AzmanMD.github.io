@@ -1,0 +1,9 @@
+Uzi
+---
+A game-ready Uzi asset created with two 4K texture sets. Optimized for real-time use in games and interactive scenes. Includes high-quality maps for detailed PBR rendering.
+---
+Game Ready, PBR, 4K Textures
+---
+https://res.cloudinary.com/iekvasci/image/upload/v1785112081/Uzi_012_xuhvji.jpg
+---
+Uzi.html
