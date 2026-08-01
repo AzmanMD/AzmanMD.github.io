@@ -2,7 +2,6 @@ Uzi
 Magnum
 Crates
 Zombies
-Ostrich
 WaterBarrel
 Storage
 Fridge
